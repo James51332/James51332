@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James, and I am a high school senior in Wausau, Wisconsin. Here are some projects that I've worked on in the past:
+My name is James, and I am a rising freshman at UW-Madison 🦡. Here are some projects that I've worked on in the past:
 
 * 📗 [Lettermorph](https://github.com/James51332/Lettermorph) - A word themed game that earned 10th place in FBLA Nationals 2023
 * ✍️ [dadabo.dev](https://dadabo.dev) - A personal blog where I write about the technical challenges I face on my projects
