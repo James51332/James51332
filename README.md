@@ -4,7 +4,7 @@ My name is James, and I am a rising freshman at UW-Madison 🦡 studying Compute
 
 Here are some projects that I've worked on in the past:
 
-* 🌊 [OceanSimulation](https://James51332) - A realistic, physically based FFT Ocean Water simulation
+* 🌊 [OceanSimulation](https://github.com/James51332/OceanSimulation) - A realistic, physically based FFT Ocean Water simulation
 * 👁️ [Vision](https://github.com/James51332/Vision) - A powerful 3D and 2D rendering and compute engine supporting both Metal and OpenGL
 * ✍️ [dadabo.dev](https://dadabo.dev) - A personal blog where I write about the technical challenges I face on my projects
 * 📗 [Lettermorph](https://github.com/James51332/Lettermorph) - A word themed game that earned 10th place in FBLA Nationals 2023
