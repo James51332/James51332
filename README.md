@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is James, and I am a rising freshman at UW-Madison 🦡 studying Computer Science! I am also proud to be a 2024 Amazon Future Engineer! 
+My name is James, and I am a freshman at UW-Madison 🦡 studying Computer Science! I am also proud to be a 2024 Amazon Future Engineer! 
 
 Here are some projects that I've worked on in the past:
 
