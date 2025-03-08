@@ -12,7 +12,7 @@ Here are some projects that I've worked on in the past:
 
 I am passionate about 3D rendering, and my favorite language to work with is C++!
 
-You can reach out to me via my [discord server](https://discord.com/invite/Aakd4VVB6F), where I'm happy to answer any questions you want to ask me directly. 
+You can reach out to me via my [linkedin](https://www.linkedin.com/in/jamesdadabo/), where I'm happy to answer any questions you want to ask me directly. 
 
 <!--
 **James51332/James51332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
