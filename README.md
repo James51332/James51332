@@ -1,6 +1,6 @@
 ### Thanks for stopping by :)
 
-I'm James, a student at UW-Madison (On Wisconsin). I'm studying Electrical Engineering, Math, and Computer Science, and spending my summer SDE Intern at Amazon. In my personal time, I dive deep into my hobbies. Right now, I'm really passionate about soccer, climbing, cooking, and coding. I'm currently building an animation tool called [nelo](https://github.com/james51332) to build expressive, timeline-driven animations.
+I'm James, a student at UW-Madison (On Wisconsin). I'm studying Electrical Engineering, Math, and Computer Science, and I'm spending my summer as an SDE Intern at Amazon. In my personal time, I dive deep into my hobbies. Right now, I'm really passionate about soccer, climbing, cooking, and coding. I'm currently building an animation tool called [nelo](https://github.com/james51332) to build expressive, timeline-driven animations.
 
 Here are some projects that I've worked on in the past:
 
