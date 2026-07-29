@@ -4,7 +4,7 @@ I'm James, a student at UW-Madison (On Wisconsin). I'm studying Electrical Engin
 Math, and Computer Science, and I'm spending my summer as an SDE Intern at Amazon.
 In my personal time, I dive deep into my hobbies. Right now, I'm really passionate 
 about soccer, climbing, cooking, and coding. I'm currently building an animation 
-tool called nelo ([GitHub](https://https://github.com/james51332/nelo), 
+tool called nelo ([GitHub](https://github.com/james51332/nelo), 
 [Codeberg](https://codeberg.org/dadabo/nelo)) to build expressive, timeline-driven 
 animations.
 
